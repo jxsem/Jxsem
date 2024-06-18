@@ -6,7 +6,7 @@
 
 <p align="left">¡Hola! Soy un desarrollador web con objetivo full stack. Mi día a día involucra la implementación de proyectos desde la fase inicial de diseño hasta el despliegue final, asegurando que cada componente funcione de manera óptima y cumpla con los estándares de calidad más exigentes. Me especializo en el desarrollo frontend utilizando tecnologías como JavaScript (ES6+), HTML5 y CSS3, junto con frameworks modernos como React para construir interfaces dinámicas y amigables.</p>
 
-<p align="left">En el backend, domino Node.js y aqui podríamos añadir Python para la creación de servidores robustos y escalables, gestionando bases de datos relacionales como MySQL para almacenar y manipular datos de manera eficiente. Tengo experiencia en el diseño e implementación de APIs RESTful que facilitan la comunicación entre frontend y backend de manera eficiente y segura.</p>
+<p align="left">En el backend, domino Node.js y también incluiriamos Python, para la creación de servidores robustos y escalables, gestionando bases de datos relacionales como MySQL para almacenar y manipular datos de manera eficiente. Tengo experiencia en el diseño e implementación de APIs RESTful que facilitan la comunicación entre frontend y backend de manera eficiente y segura.</p>
 
 <p align="left">Constantemente busco aprender nuevas tecnologías y metodologías que me permitan estar al tanto de las últimas tendencias del desarrollo web. Actualmente, estoy enfocado en fortalecer mis habilidades con TypeScript para mejorar la robustez y mantenibilidad de mis proyectos, y explorando herramientas como Docker para optimizar los procesos de desarrollo y despliegue.</p>
 
