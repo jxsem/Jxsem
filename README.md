@@ -1,12 +1,12 @@
 <h1 align="left">¡Hola! ¿Qué tal?</h1>
 
-<p align="left">Soy José Manuel, un apasionado desarrollador full stack originario de Granada, España. Mi trayectoria en el mundo del desarrollo web abarca tanto el frontend como el backend, donde me destaco por crear soluciones completas y eficientes que combinan una sólida arquitectura con una experiencia de usuario excepcional.</p>
+<p align="left">Soy José Manuel, un apasionado del desarrollo web y que vive Granada, España. Mi trayectoria en el mundo del desarrollo web abarca tanto el frontend como el backend, donde me destaco por crear soluciones completas y eficientes que combinan una sólida arquitectura y moderna con una experiencia de usuario excepcional.</p>
 
 <h2 align="left">Sobre mí:</h2>
 
-<p align="left">¡Hola! Soy un desarrollador web full stack con más de X años de experiencia. Mi día a día involucra la implementación de proyectos desde la fase inicial de diseño hasta el despliegue final, asegurando que cada componente funcione de manera óptima y cumpla con los estándares de calidad más exigentes. Me especializo en el desarrollo frontend utilizando tecnologías como JavaScript (ES6+), HTML5 y CSS3, junto con frameworks modernos como React para construir interfaces dinámicas y amigables.</p>
+<p align="left">¡Hola! Soy un desarrollador web con objetivo full stack. Mi día a día involucra la implementación de proyectos desde la fase inicial de diseño hasta el despliegue final, asegurando que cada componente funcione de manera óptima y cumpla con los estándares de calidad más exigentes. Me especializo en el desarrollo frontend utilizando tecnologías como JavaScript (ES6+), HTML5 y CSS3, junto con frameworks modernos como React para construir interfaces dinámicas y amigables.</p>
 
-<p align="left">En el backend, domino Node.js para la creación de servidores robustos y escalables, gestionando bases de datos relacionales como MySQL para almacenar y manipular datos de manera eficiente. Tengo experiencia en el diseño e implementación de APIs RESTful que facilitan la comunicación entre frontend y backend de manera eficiente y segura.</p>
+<p align="left">En el backend, domino Node.js y aqui podríamos añadir Python para la creación de servidores robustos y escalables, gestionando bases de datos relacionales como MySQL para almacenar y manipular datos de manera eficiente. Tengo experiencia en el diseño e implementación de APIs RESTful que facilitan la comunicación entre frontend y backend de manera eficiente y segura.</p>
 
 <p align="left">Constantemente busco aprender nuevas tecnologías y metodologías que me permitan estar al tanto de las últimas tendencias del desarrollo web. Actualmente, estoy enfocado en fortalecer mis habilidades con TypeScript para mejorar la robustez y mantenibilidad de mis proyectos, y explorando herramientas como Docker para optimizar los procesos de desarrollo y despliegue.</p>
 
@@ -36,16 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<h2 align="left">Proyectos destacados:</h2>
-
-<ul>
-  <li><strong>Nombre del proyecto:</strong> Breve descripción del proyecto.</li>
-  <li><strong>Nombre del proyecto:</strong> Breve descripción del proyecto.</li>
-  <li><strong>Nombre del proyecto:</strong> Breve descripción del proyecto.</li>
-</ul>
-
 <h2 align="left">Contacto:</h2>
 
-<p align="left">Puedes encontrarme en LinkedIn o enviarme un correo electrónico a [tu@email.com]. Estoy abierto a oportunidades de colaboración y siempre interesado en discutir nuevos proyectos y tecnologías.</p>
+<p align="left">Puedes encontrarme en LinkedIn o enviarme un correo electrónico a soldadojimenezj@gmail.com. Estoy abierto a oportunidades de colaboración y siempre interesado en discutir nuevos proyectos y tecnologías.</p>
 
 <p align="left">¡Gracias por visitar mi perfil! Espero poder conectar pronto.</p>
