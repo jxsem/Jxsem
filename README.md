@@ -10,10 +10,6 @@
 
 <p align="left">Constantemente busco aprender nuevas tecnologías y metodologías que me permitan estar al tanto de las últimas tendencias del desarrollo web. Actualmente, estoy enfocado en fortalecer mis habilidades con TypeScript para mejorar la robustez y mantenibilidad de mis proyectos, y explorando herramientas como Docker para optimizar los procesos de desarrollo y despliegue.</p>
 
-<p align="left">Mi enfoque no se limita solo al código; me apasiona trabajar en equipos colaborativos donde puedo aportar ideas innovadoras y soluciones creativas. Creo firmemente en la importancia de la comunicación efectiva y la planificación detallada para llevar cada proyecto al éxito, cumpliendo con los objetivos tanto técnicos como comerciales.</p>
-
-<p align="left">Cuando no estoy programando, disfruto explorar nuevas tecnologías emergentes, participar en comunidades de desarrollo, y compartir conocimientos a través de mi blog personal y en plataformas como GitHub, donde puedes encontrar algunos de mis proyectos destacados.</p>
-
 <h2 align="left">Tecnologías con las que trabajo:</h2>
 
 <div align="left">
