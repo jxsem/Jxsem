@@ -39,6 +39,6 @@
 
 <h2 align="left">Contacto:</h2>
 
-<p align="left">Puedes encontrarme en LinkedIn o enviarme un correo electrónico a soldadojimenezj@gmail.com. Estoy abierto a oportunidades de colaboración y siempre interesado en discutir nuevos proyectos y tecnologías.</p>
+<p align="left">Puedes encontrarme en LinkedIn o enviarme un correo electrónico a soldadojimenezj@gmail.com. Estoy abierto a oportunidades de colaboración y siempre interesado en aportar algo en nuevos proyectos y tecnologías.</p>
 
 <p align="left">¡Gracias por visitar mi perfil! Espero poder conectar pronto.</p>
